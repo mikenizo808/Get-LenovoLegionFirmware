@@ -3,7 +3,12 @@ Checks for available downloads from the Lenovo firmware web page
 
 ## Requirements
 
-Written for Linux and requires PowerShell.  Currently supports firmware types `hhcnXXww` and `nscnXXww`. Tested on Lenovo Legion 5 and 7, though you system may vary.  Use the `CustomType` parameter if your firmware naming is different.
+Written for Linux and requires PowerShell.  Currently supports firmware types `hhcnXXww` and `nscnXXww`. Tested on Lenovo Legion 5 and 7, though your system may vary.  Use the `CustomType` parameter if your firmware naming is different.
+
+## About the script
+
+The script only downloads the bits from Lenovo. It is up to you to save the firmware to USB and go install it.
+There is no special handling to make a bootable image. You simply place the exe on a USB drive and boot into Windows to install.
 
 ## Backup your system
 
