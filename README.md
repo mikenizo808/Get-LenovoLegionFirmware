@@ -13,8 +13,8 @@ There is no special handling to make a bootable image. You simply place the exe 
 ## Backup your system
 
 Before updating firmware you should take a full backup of your system using a USB Lacie drive or similar.
-In Ubuntu the backup software require.s your storage media to be able to hold two backups. Always get the
-bigger backup drive when in doubt (i.e. from BEstBuy or similar).
+In Ubuntu the backup software requires your storage media to be able to hold two backups. Always get the
+bigger backup drive when in doubt (i.e. from BestBuy or similar).
 
 ## Firmware install requires Windows
 
