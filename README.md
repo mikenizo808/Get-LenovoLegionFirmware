@@ -5,7 +5,7 @@ Checks for available downloads from the Lenovo firmware web page
 
 Written for Linux intially but now support Windows as well.  This requires PowerShell.
 
-Initially only supported firmware types `hhcnXXww` and `nscnXXww`, but now we support many of the latest LEgion 5, 6 and  7 models.
+Initially only supported firmware types `hhcnXXww` and `nscnXXww`, but now we support many of the latest Legion 5, 6 and  7 models.
 Thanks to Reddit user Masayoshii for the list of models!
 
 Use the `CustomType` parameter if your firmware naming is different than those provided by the FirmwareType parameter.
